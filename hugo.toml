@@ -1,4 +1,4 @@
-baseURL = 'www.example.com'
+baseURL = 'https://talkys-devlog.onrender.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hello-friend-ng'
