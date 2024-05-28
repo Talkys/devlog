@@ -1,4 +1,4 @@
-baseURL = 'localhost'
+baseURL = 'www.example.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hello-friend-ng'
@@ -37,7 +37,6 @@ paginate     = 10
     title = "Hello Friend NG"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
 
   [languages.en.params]
     subtitle  = "A simple theme for Hugo"
